@@ -1,5 +1,4 @@
 # Muhammad Faiq Blog
-<img src="faiq.jpg" alt="drawing" width="200"/>
 
 Assalamualaikum.
 
